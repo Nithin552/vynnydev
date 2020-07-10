@@ -5,6 +5,6 @@ I'm a full stack developer passionate about Javascript and Typescript languages 
 - 🔭 I'm working on my own projects.
 - 🌱 I’m currently learning Typescript, Node.js, ReactJS and React Native
 - 📫 How to reach me: 
-  LinkedIn: https://www.linkedin.com/in/vinicius-prudencio-64bb99128/
-  Instagram: vynny1 => Vinicius Prudencio
+  See my LinkedIn: https://www.linkedin.com/in/vinicius-prudencio-64bb99128/
+  See my Instagram: vynny1 => Vinicius Prudencio
 -->
