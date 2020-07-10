@@ -2,11 +2,6 @@
 
 I'm a full stack developer passionate about Javascript and Typescript languages and their NodeJs, ReactJS and React-Native technologies, which are currently powerful in the market, structuring the backend, frontend and mobile and bringing us great experiences every day. 
 
-<!--
-**vynnydev/vynnydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭'm working on my own projects.
 - 🌱 I’m currently learning Typescript, Node.js, ReactJS and React Native
 - 📫 How to reach me: 
