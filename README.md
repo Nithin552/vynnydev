@@ -7,5 +7,5 @@ I'm a full stack developer passionate about Javascript and Typescript languages 
 - 📫 How to reach me: 
   See my LinkedIn: https://www.linkedin.com/in/vinicius-prudencio-64bb99128/
   See my Instagram: vynny1 => Vinicius Prudencio
-  Chat me on Discord: vynny1#7997
+  My contact in the discord: vynny1#7997
 -->
