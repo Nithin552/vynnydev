@@ -9,3 +9,5 @@ I'm a full stack developer passionate about Javascript and Typescript languages 
   See my Instagram: vynny1 => Vinicius Prudencio /
   My contact in the Discord: vynny1#7997
 -->
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
