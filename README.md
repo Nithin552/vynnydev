@@ -1,9 +1,6 @@
 ### Hello everyone 👋
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vinicius-prudencio-64bb99128/" target="_blank" rel="noopener noreferrer">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-vini%20prudencio-%237D40E7">
-  </a>
   
   <img alt="Back-end" src="https://img.shields.io/badge/Back--end-NodeJs-green">
 
