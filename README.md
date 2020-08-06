@@ -1,19 +1,16 @@
 ### Hello everyone 👋
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/badge/typescript-94.9-informational?color=%237D40E7">
-
   <a href="https://www.linkedin.com/in/vinicius-prudencio-64bb99128/" target="_blank" rel="noopener noreferrer">
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-vini%20prudencio-%237D40E7">
   </a>
+  
+  <img alt="Back-end" src="https://img.shields.io/badge/Back--end-NodeJs-green">
 
   <img alt="Front-End" src="https://img.shields.io/badge/Front--end-React-blue">
+  
+  <img alt="Front-End" src="https://img.shields.io/badge/Mobile-React--Native-blue">
 
-  <a href="https://github.com/Vynny21/fastfeet-frontend/commits/dev">
-    <img alt="GitHub last commit" src="https://img.shields.io/badge/last%20commit-june-orange?color=%237D40E7">
-  </a>
-
-  <img alt="GitHub" src="https://img.shields.io/badge/license-MIT-orange?color=%237D40E7">
 </p>
 
 I'm a full stack developer passionate about Javascript and Typescript languages and their NodeJs, ReactJS and React-Native technologies, which are currently powerful in the market, structuring the backend, frontend and mobile and bringing us great experiences every day. 
