@@ -11,6 +11,8 @@
   <img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-MongoDB-green"/>
   
   <img alt="SQL" src="https://img.shields.io/badge/SQL-PosgreSQL-blue"/>
+  
+  <img alt="AWS" src="https://img.shields.io/badge/Cloud-AWS-orange"/>
  
 </p>
 
