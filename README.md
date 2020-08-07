@@ -9,6 +9,8 @@
   <img alt="Front-End" src="https://img.shields.io/badge/Mobile-React--Native-blue">
   
   <img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-MongoDB-green"/>
+  
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-PosgreSQL-blue"/>
  
 </p>
 
