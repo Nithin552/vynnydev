@@ -7,7 +7,9 @@
   <img alt="Front-End" src="https://img.shields.io/badge/Front--end-React%20%7C%20Angular-blue">
   
   <img alt="Front-End" src="https://img.shields.io/badge/Mobile-React--Native-blue">
-
+  
+  <img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-MongoDB-green"/>
+ 
 </p>
 
 I'm a full stack developer passionate about Javascript and Typescript languages and their NodeJs, ReactJS and React-Native technologies, which are currently powerful in the market, structuring the backend, frontend and mobile and bringing us great experiences every day. 
