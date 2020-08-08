@@ -6,7 +6,7 @@
 
   <img alt="Front-End" src="https://img.shields.io/badge/Front--end-React%20%7C%20Angular-blue">
   
-  <img alt="Front-End" src="https://img.shields.io/badge/Mobile-React--Native-blue">
+  <img alt="Front-End" src="https://img.shields.io/badge/Front--end-React--Native%20%7C%20Ionic-blue">
   
   <img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-MongoDB-green"/>
   
