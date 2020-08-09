@@ -2,17 +2,19 @@
 
 <p align="center">
   
-  <img alt="Back-end" src="https://img.shields.io/badge/Back--end-NodeJs-green">
+  <img alt="Back-end" src="https://img.shields.io/badge/Back--end-NodeJs-green" />
 
-  <img alt="Front-End" src="https://img.shields.io/badge/Front--end-React%20%7C%20Angular-blue">
+  <img alt="Front-End" src="https://img.shields.io/badge/Front--end-React%20%7C%20Angular-blue" />
   
-  <img alt="Front-End" src="https://img.shields.io/badge/Mobile-React--Native%20%7C%20Ionic-blue">
+  <img alt="Front-End" src="https://img.shields.io/badge/Mobile-React--Native%20%7C%20Ionic-blue" />
   
-  <img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-MongoDB-green"/>
+  <img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-MongoDB-green" />
   
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-PosgreSQL-blue"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-PosgreSQL-blue" />
   
-  <img alt="AWS" src="https://img.shields.io/badge/Cloud-AWS-orange"/>
+  <img alt="AWS" src="https://img.shields.io/badge/Cloud-AWS-orange" />
+  
+  <img alt="AI" src="https://img.shields.io/badge/AI-TensorFlow-orange" />
  
 </p>
 
