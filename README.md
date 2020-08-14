@@ -30,10 +30,8 @@ I'm a full stack developer passionate about Javascript and Typescript languages 
 
 <h4 align="center">Meus projetos próprios com React Native:</h4>
 
-<p align="center">
   <img alt="Mobile" src="./github/own_apps/own-apps1.png" />
   <img alt="Mobile" src="./github/own_apps/own-apps2.png" />
-</p>
 
 
 ![Vinicius Prudencio's github stats](https://github-readme-stats.vercel.app/api?username=vynnydev&show_icons=true)
