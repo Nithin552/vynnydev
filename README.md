@@ -30,5 +30,3 @@ I'm a full stack developer passionate about Javascript and Typescript languages 
 
 ![Vinicius Prudencio's github stats](https://github-readme-stats.vercel.app/api?username=vynnydev&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vynnydev&layout=compact)](https://github.com/vynnydev/github-readme-stats)
-
-<h4 align="center">Meus projetos próprios com React Native:</h4>
