@@ -4,9 +4,9 @@
   
   <img alt="Back-end" src="https://img.shields.io/badge/Back--end-NodeJs-green" />
 
-  <img alt="Front-End" src="https://img.shields.io/badge/Front--end-React%20%7C%20Angular-blue" />
+  <img alt="Front-end Web" src="https://img.shields.io/badge/Web-React%20%7C%20Angular-blue" />
   
-  <img alt="Front-End" src="https://img.shields.io/badge/Mobile-React--Native%20%7C%20Ionic-blue" />
+  <img alt="Front-End Mobile" src="https://img.shields.io/badge/Mobile-React--Native%20%7C%20Ionic-blue" />
   
   <img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-MongoDB-green" />
   
