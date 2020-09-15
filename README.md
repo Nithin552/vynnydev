@@ -40,6 +40,7 @@ These are some of the technologies and tools that I work with:
 ![TypeORM](https://img.shields.io/badge/-TypeORM-blue?style=flat-typeorm&logo=typeorm)
 ![Knexjs](https://img.shields.io/badge/-KnexJS-e16426?style=flat-square&logo=knexjs)
 ![ReactJs](https://img.shields.io/badge/-ReactJS-7209b7?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-7209b7?style=flat-square&logo=react-native&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
