@@ -39,7 +39,6 @@ These are some of the technologies and tools that I work with:
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-blue?style=flat-square&logo=ExpressJS)
 ![ReactJS](https://img.shields.io/badge/-React-7209b7?style=flat-square&logo=angular)
-![React Native](https://img.shields.io/badge/-React-Native-7209b7?style=flat-square&logo=ionic&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
 ![Knexjs](https://img.shields.io/badge/-KnexJS-e16426?style=flat-square&logo=ExpressJS)
