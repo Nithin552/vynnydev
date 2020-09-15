@@ -35,7 +35,7 @@ These are some of the technologies and tools that I work with:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![NodeJS](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/-ExpressJS-green?style=flat-square&logo=expressjs)
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-green?style=flat-square&logo=express)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-blue?style=flat-square&logo=typeorm)
 ![ReactJs](https://img.shields.io/badge/-ReactJS-7209b7?style=flat-square&logo=react)
