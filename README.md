@@ -30,7 +30,7 @@ I'm a full stack developer passionate about Javascript and Typescript languages 
 
 ## ⚡ Technologies
 
-These are some of the technologies and tools that I work with:
+These are some of the technologies and tools that I like and study:
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
