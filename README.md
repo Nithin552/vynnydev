@@ -38,7 +38,7 @@ These are some of the technologies and tools that I like and study:
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-green?style=flat-square&logo=expressjs)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-blue?style=flat-typeorm&logo=white)
-![Sequelize](https://img.shields.io/badge/-Sequelize-blue?style=flat-sequelize&logo=white)
+![Sequelize](https://img.shields.io/badge/-Sequelize-333533?style=flat-sequelize&logo=white)
 ![Knexjs](https://img.shields.io/badge/-KnexJS-e16426?style=flat-square&logo=knexjs)
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-343a40?style=flat-square&logo=apache-kafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-e16426?style=flat-square&logo=rabbitmq&logoColor=white)
