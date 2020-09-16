@@ -42,7 +42,7 @@ These are some of the technologies and tools that I like and study:
 ![Knexjs](https://img.shields.io/badge/-KnexJS-e16426?style=flat-square&logo=knexjs)
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-343a40?style=flat-square&logo=apache-kafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-e16426?style=flat-square&logo=rabbitmq&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-e16426?style=flat-square&logo=redis)
+![Redis](https://img.shields.io/badge/-Redis-ba181b?style=flat-square&logo=redis&logoColor=white)
 ![ReactJs](https://img.shields.io/badge/-ReactJS-7209b7?style=flat-square&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-7209b7?style=flat-square&logo=react-native&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
