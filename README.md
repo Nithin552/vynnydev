@@ -41,7 +41,7 @@ These are some of the technologies and tools that I like and study:
 ![Sequelize](https://img.shields.io/badge/-Sequelize-blue?style=flat-sequelize&logo=white)
 ![Knexjs](https://img.shields.io/badge/-KnexJS-e16426?style=flat-square&logo=knexjs)
 ![Kafka](https://img.shields.io/badge/-Kafka-e16426?style=flat-square&logo=kafka)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-e16426?style=flat-square&logo=rabbitmq)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-e16426?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-e16426?style=flat-square&logo=redis)
 ![ReactJs](https://img.shields.io/badge/-ReactJS-7209b7?style=flat-square&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-7209b7?style=flat-square&logo=react-native&logoColor=white)
