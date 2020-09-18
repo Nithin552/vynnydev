@@ -21,7 +21,7 @@
 I'm a full stack developer passionate about Javascript and Typescript languages and their NodeJs, ReactJS, React-Native, Angular and Ionic technologies and also others stacks becoming fullstack, which are currently powerful in the market, structuring the backend, frontend and mobile and bringing us great experiences every day. 
 
 - 🔭 I'm working on my own projects.
-- 🌱 I’m currently learning Typescript, Node.js, ReactJS and React Native
+- 🌱 I’m currently learning Typescript, NodeJS, TDD, DDD(Domain Driven Design), microservices (gRPC, Kafka & RabbitMQ), Serveless and AWS Lambda
 - 📫 How to reach me: 
   See my LinkedIn: https://www.linkedin.com/in/vinicius-prudencio-64bb99128/
   See my Instagram: vynny1 => Vinicius Prudencio /
