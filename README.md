@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img alt="my-profile-bot" src="./github/mysignbot.gif" />
+</p>
+
+
 ### Hello everyone 👋
 
 <p align="center">
