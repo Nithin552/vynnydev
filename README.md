@@ -1,9 +1,3 @@
-
-<p align="center">
-  <img alt="my_profile" src="./github/my_profile.gif"/>
-</p>
-
-
 ### Hello everyone 👋
 
 <p align="center">
