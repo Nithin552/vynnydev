@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img alt="my-profile-bot" src="./github/mysignbot.gif" />
+  <img alt="my_profile" src="./github/my_profile.gif" />
 </p>
 
 
