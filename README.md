@@ -18,7 +18,7 @@
  
 </p>
 
-I'm a full stack developer passionate about Javascript and Typescript languages and their NodeJs, ReactJS, React-Native, Angular and Ionic technologies and also others stacks becoming fullstack, which are currently powerful in the market, structuring the backend, frontend and mobile and bringing us great experiences every day. 
+I'm a full stack developer passionate about Javascript and Typescript languages and their tecnologies like NodeJs, ReactJS, React-Native, Angular and Ionic and also others similars stacks, which are currently powerful in the market, structuring the backend, frontend and mobile and bringing us great experiences every day. 
 
 - 🔭 I'm working on my own projects.
 - 🌱 I’m currently learning Typescript, NodeJS, TDD, DDD(Domain Driven Design), microservices (gRPC, Kafka & RabbitMQ), Serveless and AWS Lambda
