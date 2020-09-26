@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img alt="my_profile" src="./github/my_profile.gif" width="600" height="338"/>
+  <img alt="my_profile" src="./github/my_profile.gif"/>
 </p>
 
 
