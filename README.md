@@ -16,7 +16,7 @@
   
   <img alt="AWS" src="https://img.shields.io/badge/Cloud-AWS-orange" />
   
-  <img alt="AI" src="https://img.shields.io/badge/AI-TensorFlow-orange" />
+  <img alt="AI" src="https://img.shields.io/badge/AI-TensorFlow-#f8961e" />
  
 </p>
 
