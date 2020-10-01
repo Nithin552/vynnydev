@@ -36,8 +36,8 @@ I'm a full stack developer passionate about Javascript and Typescript languages 
 
 These are some of the technologies and tools that I like and study:
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-fff700?style=flat-square&logo=javascript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-green?style=flat-square&logo=expressjs)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
@@ -50,7 +50,7 @@ These are some of the technologies and tools that I like and study:
 ![DDD](https://img.shields.io/badge/-DDD-06d6a0?style=flat-square&logo=DDD&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-06d6a0?style=flat-square&logo=Clean-Architecture&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-343a40?style=flat-square&logo=apache-kafka&logoColor=white)
-![gRPC](https://img.shields.io/badge/-gRPC-264653?style=flat-square&logo=gRPC&logoColor=white)
+![gRPC](https://img.shields.io/badge/-gRPC-264653?style=flat-square&logo=grpc&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-e16426?style=flat-square&logo=rabbitmq&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-f8961e?style=flat-square&logo=TensorFlow&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-ba181b?style=flat-square&logo=redis&logoColor=white)
