@@ -47,6 +47,7 @@ These are some of the technologies and tools that I like and study:
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-343a40?style=flat-square&logo=apache-kafka&logoColor=white)
 ![gRPC](https://img.shields.io/badge/-gRPC-264653?style=flat-square&logo=gRPC&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-e16426?style=flat-square&logo=rabbitmq&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-f8961e?style=flat-square&logo=TensorFlow)
 ![Redis](https://img.shields.io/badge/-Redis-ba181b?style=flat-square&logo=redis&logoColor=white)
 ![ReactJs](https://img.shields.io/badge/-ReactJS-7209b7?style=flat-square&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-7209b7?style=flat-square&logo=react&logoColor=white)
