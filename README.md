@@ -37,7 +37,7 @@ I'm a full stack developer passionate about Javascript and Typescript languages 
 These are some of the technologies and tools that I like and study:
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-fff700?style=flat-square&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-ffc43d?style=flat-square&logo=javascript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-green?style=flat-square&logo=expressjs)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
