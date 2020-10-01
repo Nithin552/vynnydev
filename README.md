@@ -44,6 +44,9 @@ These are some of the technologies and tools that I like and study:
 ![TypeORM](https://img.shields.io/badge/-TypeORM-blue?style=flat-typeorm&logo=white)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-333533?style=flat-sequelize&logo=white)
 ![Knex.JS](https://img.shields.io/badge/-Knex.JS-e16426?style=flat-square&logo=knex.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodblogoColor=white)
+![Realm](https://img.shields.io/badge/-Realm-ef476f?style=flat-square&logo=realmlogoColor=white)
 ![DDD](https://img.shields.io/badge/-DDD-06d6a0?style=flat-square&logo=DDD&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-06d6a0?style=flat-square&logo=Clean-Architecture&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-343a40?style=flat-square&logo=apache-kafka&logoColor=white)
@@ -62,8 +65,6 @@ These are some of the technologies and tools that I like and study:
 ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-4361ee?style=flat-square&logo=entity-framework&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-f8f4f2?style=flat-square&logo=docker&logoColor=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0089D6?style=flat-square&logo=kubernetes&logoColor=white)
@@ -74,6 +75,7 @@ These are some of the technologies and tools that I like and study:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
 
 
 - The attached projects are the main development and studies
