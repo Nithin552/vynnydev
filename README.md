@@ -8,6 +8,8 @@
   
   <img alt="Front-End Mobile" src="https://img.shields.io/badge/Mobile-React--Native%20%7C%20Ionic-blue" />
   
+  <img alt="Architecture" src="https://img.shields.io/badge/Architecture-DDD%20%26%20Clean%20architecture-brightgreen" />
+
   <img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-MongoDB-green" />
   
   <img alt="SQL" src="https://img.shields.io/badge/SQL-PosgreSQL-blue" />
