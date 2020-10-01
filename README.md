@@ -45,7 +45,7 @@ These are some of the technologies and tools that I like and study:
 ![Sequelize](https://img.shields.io/badge/-Sequelize-333533?style=flat-sequelize&logo=white)
 ![Knex.JS](https://img.shields.io/badge/-Knex.JS-e16426?style=flat-square&logo=knex.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-1a936f?style=flat-square&logo=mongodb&logoColor=white)
 ![Realm](https://img.shields.io/badge/-Realm-ef476f?style=flat-square&logo=realm&logoColor=white)
 ![DDD](https://img.shields.io/badge/-DDD-06d6a0?style=flat-square&logo=DDD&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-06d6a0?style=flat-square&logo=Clean-Architecture&logoColor=white)
