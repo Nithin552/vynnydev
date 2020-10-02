@@ -42,7 +42,7 @@ These are some of the technologies and tools that I like and study:
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-green?style=flat-square&logo=expressjs)
 ![Eslint](https://img.shields.io/badge/-Eslint-green?style=flat-square&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-Prettier-green?style=flat-square&logo=prettier&logoColor=white)
-![Husky](https://img.shields.io/badge/-Prettier-green?style=flat-square&logo=husky&logoColor=white)
+![Husky](https://img.shields.io/badge/-Husky-green?style=flat-square&logo=husky&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest&logoColor=white)
 ![Husky](https://img.shields.io/badge/-Prettier-green?style=flat-square&logo=husky&logoColor=white)
