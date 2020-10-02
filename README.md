@@ -59,7 +59,7 @@ These are some of the technologies and tools that I like and study:
 ![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-06d6a0?style=flat-square&logo=Clean-Architecture&logoColor=white)
 ![Travis CI](https://img.shields.io/badge/-Travis%20CI-2a9d8f?style=flat-square&logo=travis&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-48cae4?style=flat-square&logo=webpack&logoColor=white)
-![Recoil](https://img.shields.io/badge/-ReacoilJS-0077b6?style=flat-square&logo=recoil&logoColor=white)
+![Recoil](https://img.shields.io/badge/-RecoilJS-0077b6?style=flat-square&logo=recoiljs&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-9d4edd?style=flat-square&logo=heroku&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-343a40?style=flat-square&logo=apache-kafka&logoColor=white)
 ![gRPC](https://img.shields.io/badge/-gRPC-264653?style=flat-square&logo=grpc&logoColor=white)
